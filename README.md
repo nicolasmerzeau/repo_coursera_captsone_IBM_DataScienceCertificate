@@ -1,5 +1,4 @@
 # repo_courera_captsone
 
 ## Editing the file
-
-Its a markdown file in this repository
+This repo contains all files for the Coursera IBM DataScience Professionnal Certificate Capstone Project
